@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "FACHRUROZI",
-  description: "Personal portfolio built with Next.js",
+  description: "My Personal Portfolio",
 };
 
 export default function RootLayout({ children }) {
